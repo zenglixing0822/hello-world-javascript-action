@@ -16,6 +16,6 @@
 
 ## Example usage
 
-使用：actions/hello-world-javascript-action@v1
+使用：actions/hello-world-javascript-action@main
 及：
-  who-to-greet: 'Mona the Octocat'
+  who-to-greet: 'XXX'
